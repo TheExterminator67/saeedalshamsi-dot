@@ -52,13 +52,12 @@ I enjoy building useful software and exploring how AI can solve real problems. M
 - **Al Reef School Mathematics Challenge** — Certificate of participation, February 2025
 - **ADIA Mustaqbali Program at Brewster Academy** — Certificate of participation, July 2025
 
-## Skills & Tools
-
-**Languages:** Python, C, SQL, HTML, CSS  
-**Frameworks & libraries:** Flask, Streamlit, scikit-learn, pandas, PyTorch  
-**Tools:** Git, GitHub, VS Code, Jupyter  
-**Interests:** Artificial intelligence, machine learning, data science, cybersecurity, and reinforcement learning
-
+Skills & Tools
+Programming languages: Python, C, C++, C#, Java, JavaScript, TypeScript, SQL
+Web development: HTML, CSS
+Frameworks & libraries: Flask, Streamlit, Next.js, React, Tailwind CSS, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, PyTorch, XGBoost, imbalanced-learn
+Tools: Git, GitHub, VS Code, Jupyter
+Interests: Artificial intelligence, machine learning, data science, cybersecurity, reinforcement learning
 ## Currently
 
 - Completing Grade 12; expected graduation in 2027
